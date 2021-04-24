@@ -3,7 +3,7 @@ A GUI tool to quickly determine AD group members.  Especially helpful during aud
 
 ## Tips
 
-Use the filter to quickly find groups/users, sort by any of the columns available.  Once the desired users are selected use ctrl + c to copy comma delimited text; this can bee pasted into a .csv file for easy use or further scripting.
+Use the filter to quickly find groups/users, sort by any of the columns available.  Once the desired users are selected use ctrl + c to copy comma delimited text; this can be pasted into a .csv file for easy use or further scripting.
 
 ## Considerations
 
