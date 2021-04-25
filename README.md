@@ -13,7 +13,7 @@ Use the filter to quickly find groups/users, sort by any of the columns availabl
 
 ## Considerations
 
-- Requires RSOP tools on a domain-jonied machine  
+- Requires RSAT feature on a domain-jonied machine  
 - No special privileges are needed.  
 - Powershell execution policy may need to be modified if execution fails.    
 - Diving into groups that have been previously renamed may cause the app to exit.
