@@ -7,7 +7,7 @@ $date = get-date
 
 function groupdelve{
 
-$group = Get-ADGroup -filter * -Properties groupcategory | Out-GridView -title "Steven's Group membership inspector - , use the filter to search; select the desired group and click 'ok' to see group members" -PassThru | format-wide
+$group = Get-ADGroup -filter * -Properties groupcategory | Out-GridView -title "Steven's Group membership inspector - use the filter to search - select the desired group and click 'ok' to see group members" -PassThru | format-wide
  
 
 $group = $group | Out-String
